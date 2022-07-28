@@ -5,6 +5,7 @@ public class sum {
 public static void main(String[] args)
 {
 	byte newNumber=120;
-	System.out.println(newNumber);
+	byte scale=65;
+	System.out.println("enter the largest number");
 	}
 }
